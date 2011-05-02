@@ -1,0 +1,3642 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<groupcruises xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<groupcruise>
+		<Destination>Asia</Destination>
+		<Date>40501</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Diamond</Ship>
+		<GroupNum>TN8 Voy M033</GroupNum>
+		<Product>G#8077</Product>
+		<CategoryFares>J 2095, EE 2650, BC 2995</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Asia</Destination>
+		<Date>40534</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ocean</Ship>
+		<GroupNum>TN6 Voy 7101</GroupNum>
+		<Product>G#8077</Product>
+		<CategoryFares>D 2995, BC 3445, AA 4120</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40496</Date>
+		<Vendor>Carnival</Vendor>
+		<Ship>Pride</Ship>
+		<Product>G#8049</Product>
+		<CategoryFares>PNS, PCD, PPP</CategoryFares>
+		<Amenities>Champagne</Amenities>
+		<Availability>Book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40511</Date>
+		<Vendor>Carnival</Vendor>
+		<Ship>Destiny</Ship>
+		<Product>G#8049</Product>
+		<CategoryFares>PNS, PCD, PPP</CategoryFares>
+		<Amenities>Champagne</Amenities>
+		<Availability>Book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40517</Date>
+		<Vendor>Carnival</Vendor>
+		<Ship>Pride</Ship>
+		<Product>G#8049</Product>
+		<CategoryFares>PNS, PCD, PPP</CategoryFares>
+		<Amenities>Champagne</Amenities>
+		<Availability>Book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40518</Date>
+		<Vendor>Carnival</Vendor>
+		<Ship>Fantasy</Ship>
+		<Product>G#8049</Product>
+		<CategoryFares>PNS, PCD, PPP</CategoryFares>
+		<Amenities>Champagne</Amenities>
+		<Availability>Book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40524</Date>
+		<Vendor>Carnival</Vendor>
+		<Ship>Sensation</Ship>
+		<Product>G#8049</Product>
+		<CategoryFares>PNS, PCD, PPP</CategoryFares>
+		<Amenities>Champagne</Amenities>
+		<Availability>Book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40498</Date>
+		<Vendor>Cunard</Vendor>
+		<Ship>Queen Mary 2</Ship>
+		<GroupNum>TN1 Voy M033</GroupNum>
+		<Product>G#8047</Product>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40520</Date>
+		<Vendor>Cunard</Vendor>
+		<Ship>Queen Mary 2</Ship>
+		<GroupNum>TN0 Voy M035</GroupNum>
+		<Product>G#8047</Product>
+		<CategoryFares>D5 1629, C2 1885, B3 2132</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40517</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ruby</Ship>
+		<GroupNum>TN4 Voy R033</GroupNum>
+		<Product>G#8067</Product>
+		<CategoryFares>JJ 579, FF 669, BB 969</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40530</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Crown</Ship>
+		<GroupNum>TNB Voy 3041</GroupNum>
+		<Product>G#8072</Product>
+		<CategoryFares>JJ 479, FF 569, BB 869</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40506</Date>
+		<Vendor>Cunard</Vendor>
+		<Ship>Queen Victoria</Ship>
+		<GroupNum>TNP Voy V023</GroupNum>
+		<Product>G#8047</Product>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40527</Date>
+		<Vendor>Cunard</Vendor>
+		<Ship>Queen Victoria</Ship>
+		<GroupNum>TNH Voy V025</GroupNum>
+		<Product>G#8047</Product>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40505</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Pacific</Ship>
+		<GroupNum>TNJ Voy K020</GroupNum>
+		<Product>G#8079</Product>
+		<CategoryFares>I 2490, F 2640, BC 3290</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40517</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Pacific</Ship>
+		<GroupNum>TNP Voy K021</GroupNum>
+		<Product>G#8078</Product>
+		<CategoryFares>II 1458, F 1533, BD 1949</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40520</Date>
+		<Vendor>Uniworld</Vendor>
+		<Ship>River Countess</Ship>
+		<GroupNum># 7497</GroupNum>
+		<Product>M#8035</Product>
+		<CategoryFares>Cat 5 1749, Cat 2 2374, Ste 3144</CategoryFares>
+		<Amenities>Ladies</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South America</Destination>
+		<Date>40511</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Prinsendam</Ship>
+		<GroupNum>TPT Voy P038</GroupNum>
+		<Product>G#8088</Product>
+		<CategoryFares>E 4199, SS 9699</CategoryFares>
+		<Amenities>$50ppSBC</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South America</Destination>
+		<Date>40534</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Pacific</Ship>
+		<GroupNum>TN4 Voy K101</GroupNum>
+		<Product>G#8064</Product>
+		<CategoryFares>II 2785, F 2895, BC 3345</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40499</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Royal</Ship>
+		<GroupNum>TNT Voy 1028</GroupNum>
+		<Product>G#8073</Product>
+		<CategoryFares>E 1945, BC 2445</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40503</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sun</Ship>
+		<GroupNum>TNM Voy S021</GroupNum>
+		<Product>G#8073</Product>
+		<CategoryFares>JJ 1445, GG 1895, BC 2395</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40516</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sun</Ship>
+		<GroupNum>TNN Voy S022</GroupNum>
+		<Product>G#8073</Product>
+		<CategoryFares>JJ 1445 GG 1895, BC 2395</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40531</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Royal</Ship>
+		<GroupNum>TNR Voy 1031</GroupNum>
+		<Product>G#8073</Product>
+		<CategoryFares>II 1770, GG 1845, BC 2295</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40533</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Dawn</Ship>
+		<GroupNum>TNR Voy D101</GroupNum>
+		<Product>G#8073</Product>
+		<CategoryFares>JJ 1645, EE 2205, BC 2595</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40534</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Diamond</Ship>
+		<GroupNum>TN3 Voy M101</GroupNum>
+		<Product>G#8073</Product>
+		<CategoryFares>J 1445, EE 2000, BC 2345</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40517</Date>
+		<Vendor>Carnival</Vendor>
+		<Ship>Victory</Ship>
+		<Product>G#8049</Product>
+		<CategoryFares>PNS, PCD, PPP</CategoryFares>
+		<Amenities>Champagne</Amenities>
+		<Availability>Book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40525</Date>
+		<Vendor>Carnival</Vendor>
+		<Ship>Miracle</Ship>
+		<Product>G#8049</Product>
+		<CategoryFares>PNS, PCD, PPP</CategoryFares>
+		<Amenities>Champagne</Amenities>
+		<Availability>Book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40504</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Grand</Ship>
+		<GroupNum>TPM Voy A027</GroupNum>
+		<Product>G#8071</Product>
+		<CategoryFares>JJ 1319, FF 1599, BB 2049</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40507</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TN4 Voy 6037</GroupNum>
+		<Product>G#8063</Product>
+		<CategoryFares>JJ 1049, EE 1349, BD 1549</CategoryFares>
+		<Amenities>PC $25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40527</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TN8 Voy 6039</GroupNum>
+		<Product>G#8063</Product>
+		<CategoryFares>JJ 2299, EE 2749, BD 2999</CategoryFares>
+		<Amenities>PC</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40532</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Grand</Ship>
+		<GroupNum>TPP Voy A101</GroupNum>
+		<Product>G#8071</Product>
+		<CategoryFares>JJ 1989, FF 2349, BB 2849</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40538</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TN8 Voy B101</GroupNum>
+		<Product>G#8071</Product>
+		<CategoryFares>J 1249, FF 1559, BA 1999</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40540</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Emerald</Ship>
+		<GroupNum>TPL Voy E101</GroupNum>
+		<Product>G#8071</Product>
+		<CategoryFares>J 1399, F 1679, BB 2149</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40502</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sapphire</Ship>
+		<GroupNum>TPK Voy H050</GroupNum>
+		<Product>G#8058</Product>
+		<CategoryFares>J 769, F 859, BB 1049</CategoryFares>
+		<Amenities>MEX </Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40506</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Golden</Ship>
+		<GroupNum>TNX Voy 5038</GroupNum>
+		<Product>G#8065</Product>
+		<CategoryFares>J 1445, D 1945, BC 2255</CategoryFares>
+		<Amenities>HI Wine</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40520</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Golden</Ship>
+		<GroupNum>TNS Voy 5039</GroupNum>
+		<Product>G#8065</Product>
+		<CategoryFares>J 1395, EE 1845, BC 2205</CategoryFares>
+		<Amenities>HI Wine</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40534</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sapphire</Ship>
+		<GroupNum>TPH Voy H055</GroupNum>
+		<Product>G#8058</Product>
+		<CategoryFares>J 1139, F 1429, BD 1699</CategoryFares>
+		<Amenities>MEX</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Western Caribbean</Destination>
+		<Date>40502</Date>
+		<Vendor>Carnival</Vendor>
+		<Ship>Inspiration</Ship>
+		<Product>G#8049</Product>
+		<CategoryFares>PNS, PCD, PPP</CategoryFares>
+		<Amenities>Champagne</Amenities>
+		<Availability>Book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Western Caribbean</Destination>
+		<Date>40509</Date>
+		<Vendor>Carnival</Vendor>
+		<Ship>Triumph</Ship>
+		<Product>G#8049</Product>
+		<CategoryFares>PNS, PCD, PPP</CategoryFares>
+		<Amenities>Champagne</Amenities>
+		<Availability>Book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Western Caribbean</Destination>
+		<Date>40510</Date>
+		<Vendor>Carnival</Vendor>
+		<Ship>Legend</Ship>
+		<Product>G#8049</Product>
+		<CategoryFares>PNS, PCD, PPP</CategoryFares>
+		<Amenities>Champagne</Amenities>
+		<Availability>Book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Western Caribbean</Destination>
+		<Date>40511</Date>
+		<Vendor>Carnival</Vendor>
+		<Ship>Inspiration</Ship>
+		<Product>G#8049</Product>
+		<CategoryFares>PNS, PCD, PPP</CategoryFares>
+		<Amenities>Champagne</Amenities>
+		<Availability>Book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Western Caribbean</Destination>
+		<Date>40516</Date>
+		<Vendor>Carnival</Vendor>
+		<Ship>Destiny</Ship>
+		<Product>G#8049</Product>
+		<CategoryFares>PNS, PCD, PPP</CategoryFares>
+		<Amenities>Champagne</Amenities>
+		<Availability>Book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Western Caribbean</Destination>
+		<Date>40516</Date>
+		<Vendor>Carnival</Vendor>
+		<Ship>Liberty</Ship>
+		<Product>G#8049</Product>
+		<CategoryFares>PNS, PCD, PPP</CategoryFares>
+		<Amenities>Champagne</Amenities>
+		<Availability>Book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Western Caribbean</Destination>
+		<Date>40525</Date>
+		<Vendor>Carnival</Vendor>
+		<Ship>Imagination</Ship>
+		<Product>G#8049</Product>
+		<CategoryFares>PNS, PCD, PPP</CategoryFares>
+		<Amenities>Champagne</Amenities>
+		<Availability>Book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Western Caribbean</Destination>
+		<Date>40515</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Westerdam</Ship>
+		<GroupNum>TNN Voy W063</GroupNum>
+		<Product>M#8021</Product>
+		<CategoryFares>K 699, GG 799, VD 999</CategoryFares>
+		<Amenities>$125 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Western Caribbean</Destination>
+		<Date>40502</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Crown</Ship>
+		<GroupNum>TPC Voy 3037</GroupNum>
+		<Product>G#8070</Product>
+		<CategoryFares>JJ 779, FF 869, BB 1169</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40671</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Oosterdam</Ship>
+		<GroupNum>TP3 Voy O140</GroupNum>
+		<Product>G#8192</Product>
+		<CategoryFares>K 799 D 1149 VD 1299</CategoryFares>
+		<Amenities>Rt SEA $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40676</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Amsterdam</Ship>
+		<GroupNum>TQF Voy A122</GroupNum>
+		<Product>G#8192</Product>
+		<CategoryFares>K 1999 E 2099 B 4199</CategoryFares>
+		<Amenities>Rt SEA $100 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40678</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zaandam</Ship>
+		<GroupNum>TQF Voy X138</GroupNum>
+		<Product>G#8195</Product>
+		<CategoryFares>K 699 E 899</CategoryFares>
+		<Amenities>NB $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40683</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zaandam</Ship>
+		<GroupNum>TPF Voy X141</GroupNum>
+		<Product>G#8194</Product>
+		<CategoryFares>MM 1849, H 2049, BB 3099</CategoryFares>
+		<Amenities>CT#20</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40684</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zuiderdam</Ship>
+		<GroupNum>TQW Voy U130</GroupNum>
+		<Product>G#8193</Product>
+		<CategoryFares>K 899 D 1249 VD 1499</CategoryFares>
+		<Amenities>Rt YVR $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40685</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Oosterdam</Ship>
+		<GroupNum>TNX Voy O142</GroupNum>
+		<Product>M#8123</Product>
+		<CategoryFares>J 879, D1199, VD 1449</CategoryFares>
+		<Amenities>Rt Sea$25 SBC per person CH</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40685</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Statendam</Ship>
+		<GroupNum>TQP Voy S130</GroupNum>
+		<Product>G#8195</Product>
+		<CategoryFares>K 749 E 949</CategoryFares>
+		<Amenities>NB $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40685</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zaandam</Ship>
+		<GroupNum>TRB Voy X139</GroupNum>
+		<Product>M#8123</Product>
+		<CategoryFares>K 849, E 1049</CategoryFares>
+		<Amenities>SB $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40685</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Statendam</Ship>
+		<GroupNum>TQQ Voy S130</GroupNum>
+		<Product>G#8194</Product>
+		<CategoryFares>MM 1199, H 1399, BB 2299</CategoryFares>
+		<Amenities>CT#23</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40687</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zuiderdam</Ship>
+		<GroupNum>TNJ Voy U131B</GroupNum>
+		<Product>G#8194</Product>
+		<CategoryFares>MM 1999, F 2199, VF 2399</CategoryFares>
+		<Amenities>CT #2</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40688</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Volendam</Ship>
+		<GroupNum>TQB Voy V129</GroupNum>
+		<Product>G#8193</Product>
+		<CategoryFares>K 849 E 949 B 1849</CategoryFares>
+		<Amenities>Rt YVR $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40690</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Amsterdam</Ship>
+		<GroupNum>TPG Voy A123</GroupNum>
+		<Product>M#8123</Product>
+		<CategoryFares>K 2049, E 2199, D 2459</CategoryFares>
+		<Amenities>Rt Sea $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40692</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zaandam</Ship>
+		<GroupNum>TPZ Voy X140</GroupNum>
+		<Product>G#8194</Product>
+		<CategoryFares>MM 1399, H 1599, BB2549</CategoryFares>
+		<Amenities>CT#11</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40692</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Volendam</Ship>
+		<GroupNum>TNM Voy V130B</GroupNum>
+		<Product>G#8194</Product>
+		<CategoryFares>MM 1849, H 1969, BB2429</CategoryFares>
+		<Amenities>CT#8</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40695</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Volendam</Ship>
+		<GroupNum>TNJ Voy V131B</GroupNum>
+		<Product>G#8194</Product>
+		<CategoryFares>MM 2699, H 2849, BB 3299</CategoryFares>
+		<Amenities>CT#6</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40698</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Westerdam</Ship>
+		<GroupNum>TPT Voy W137</GroupNum>
+		<Product>G#8192</Product>
+		<CategoryFares>K 949 D 1299 VD 1649</CategoryFares>
+		<Amenities>Rt SEA $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40699</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Statendam</Ship>
+		<GroupNum>TPP Voy S132</GroupNum>
+		<Product>M#8124</Product>
+		<CategoryFares>K 1849, E 2179, B 3149</CategoryFares>
+		<Amenities>CT# 25 $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40699</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Statendam</Ship>
+		<GroupNum>TPX Voy S132</GroupNum>
+		<Product>G#8195</Product>
+		<CategoryFares>K 849 E 1049 DA 1149</CategoryFares>
+		<Amenities>NB $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40699</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Oosterdam</Ship>
+		<GroupNum>TP1 Voy O144</GroupNum>
+		<Product>G#8192</Product>
+		<CategoryFares>K 949 D1299 VD 1649</CategoryFares>
+		<Amenities>Rt SEA $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40700</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zuiderdam</Ship>
+		<GroupNum>TNK Voy U133B</GroupNum>
+		<Product>M#8124</Product>
+		<CategoryFares>J 2379, D 2609, VD 2819</CategoryFares>
+		<Amenities>CT#10 $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40702</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Volendam</Ship>
+		<GroupNum>TPL voy V131</GroupNum>
+		<Product>G#8195</Product>
+		<CategoryFares>K 999 E 1099 B 2099</CategoryFares>
+		<Amenities>Rt YVR $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40706</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zaandam</Ship>
+		<GroupNum>TP6 Voy X142</GroupNum>
+		<Product>G#8195</Product>
+		<CategoryFares>K 899 E 1199 DA 1349</CategoryFares>
+		<Amenities>NB $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40712</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zuiderdam</Ship>
+		<GroupNum>TNC Voy U134A</GroupNum>
+		<Product>G#8194</Product>
+		<CategoryFares>MM 1749, F 1939, VF 2129</CategoryFares>
+		<Amenities>CT#1</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40718</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Amsterdam</Ship>
+		<GroupNum>TP5 Voy A125</GroupNum>
+		<Product>G#8192</Product>
+		<CategoryFares>K 2149 E 2399 B 4949</CategoryFares>
+		<Amenities>Rt SEA $100 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40720</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Statendam</Ship>
+		<GroupNum>TP9 Voy S135</GroupNum>
+		<Product>M#8123</Product>
+		<CategoryFares>K 1099, E 1449</CategoryFares>
+		<Amenities>SB  $75 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40720</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zaandam</Ship>
+		<GroupNum>TPF Voy X144</GroupNum>
+		<Product>M#8124</Product>
+		<CategoryFares>K 2299, E 2859, AA 3799</CategoryFares>
+		<Amenities>CT#13 $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40726</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zuiderdam</Ship>
+		<GroupNum>TQC Voy U136</GroupNum>
+		<Product>G#8193</Product>
+		<CategoryFares>K 1149 D 1549 VD 1999</CategoryFares>
+		<Amenities>Rt YVR $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40727</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Oosterdam</Ship>
+		<GroupNum>TP5 Voy O148</GroupNum>
+		<Product>G#8192</Product>
+		<CategoryFares>K 1099 D 1499 VD 1899</CategoryFares>
+		<Amenities>Rt SEA $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40729</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Statendam</Ship>
+		<GroupNum>TN9 Voy S137</GroupNum>
+		<Product>G#8194</Product>
+		<CategoryFares>MM 2399, H 2749, BB 3849</CategoryFares>
+		<Amenities>CT#16</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40732</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Amsterdam</Ship>
+		<GroupNum>TQS Voy A126</GroupNum>
+		<Product>M#8123</Product>
+		<CategoryFares>K 2199, E 2499, C 2879</CategoryFares>
+		<Amenities>Rt Sea 14 day $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40733</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Westerdam</Ship>
+		<GroupNum>TNX Voy W142</GroupNum>
+		<Product>G#8192</Product>
+		<CategoryFares>K 849 D 1199 VD 1449</CategoryFares>
+		<Amenities>Rt SEA $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40734</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zaandam</Ship>
+		<GroupNum>TPW Voy X146</GroupNum>
+		<Product>G#8195</Product>
+		<CategoryFares>K 999 E 1349</CategoryFares>
+		<Amenities>NB $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40741</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Statendam</Ship>
+		<GroupNum>TN4 Voy S138</GroupNum>
+		<Product>M#8124</Product>
+		<CategoryFares>K 2199, E 2759, C 2879</CategoryFares>
+		<Amenities>CT# 25 $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40741</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Statendam</Ship>
+		<GroupNum>TN7 Voy S138</GroupNum>
+		<Product>G#8195</Product>
+		<CategoryFares>K 999 E 1349</CategoryFares>
+		<Amenities>NB $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40744</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Volendam</Ship>
+		<GroupNum>TPR Voy V137</GroupNum>
+		<Product>G#8193</Product>
+		<CategoryFares>K 1049 E 1199 B 2249</CategoryFares>
+		<Amenities>Rt YVR $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40744</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zaandam</Ship>
+		<GroupNum>TN1 Voy X149</GroupNum>
+		<Product>G#8194</Product>
+		<CategoryFares>MM 3699, H 4049, BB 5149</CategoryFares>
+		<Amenities>CT#28</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40749</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zuiderdam</Ship>
+		<GroupNum>TND Voy U140B</GroupNum>
+		<Product>M#8124</Product>
+		<CategoryFares>J 2529, D 2789, VD 3029</CategoryFares>
+		<Amenities>CT#10 $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40762</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zaandam</Ship>
+		<GroupNum>TPG Voy X150</GroupNum>
+		<Product>M#8124</Product>
+		<CategoryFares>K 2299, DA 1549, AA 3799</CategoryFares>
+		<Amenities>CT#13 $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40762</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zuiderdam</Ship>
+		<GroupNum>TNM Voy U142B</GroupNum>
+		<Product>G#8194</Product>
+		<CategoryFares>MM 2649, H 2799, VF 3109</CategoryFares>
+		<Amenities>CT#4</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40765</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Volendam</Ship>
+		<GroupNum>TNC Voy V140A</GroupNum>
+		<Product>G#8194</Product>
+		<CategoryFares>MM 2199, H 2299, BB 2649</CategoryFares>
+		<Amenities>CT#5</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40769</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Oosterdam</Ship>
+		<GroupNum>TN0 Voy 0154</GroupNum>
+		<Product>M#8123</Product>
+		<CategoryFares>J 1079, D 1399, VD 1749</CategoryFares>
+		<Amenities>Rt Sea $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40769</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zaandam</Ship>
+		<GroupNum>TQG Voy X151</GroupNum>
+		<Product>M#8123</Product>
+		<CategoryFares>K 999, E 1299</CategoryFares>
+		<Amenities>SB  $75 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40772</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Volendam</Ship>
+		<GroupNum>TPD Voy V141</GroupNum>
+		<Product>G#8193</Product>
+		<CategoryFares>K 899 E 999 B 1949</CategoryFares>
+		<Amenities>Rt YVR $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40776</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zaandam</Ship>
+		<GroupNum>TPJ Voy X152</GroupNum>
+		<Product>G#8195</Product>
+		<CategoryFares>K 849 E 1049</CategoryFares>
+		<Amenities>NB $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40776</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zaandam</Ship>
+		<GroupNum>TPL Voy X152</GroupNum>
+		<Product>G#8194</Product>
+		<CategoryFares>MM 2649, H 2949, BB 4049</CategoryFares>
+		<Amenities>CT#21</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40779</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Statendam</Ship>
+		<GroupNum>TPN Voy S145</GroupNum>
+		<Product>G#8194</Product>
+		<CategoryFares>MM 3349, H 3549, BB 4599</CategoryFares>
+		<Amenities>CT#28</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40782</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zuiderdam</Ship>
+		<GroupNum>TPT Voy U144</GroupNum>
+		<Product>G#8193</Product>
+		<CategoryFares>K 949 D 1299 VD 1599</CategoryFares>
+		<Amenities>Rt YVR $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40783</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Statendam</Ship>
+		<GroupNum>TN2 Voy S144</GroupNum>
+		<Product>G#8195</Product>
+		<CategoryFares>K 799 E 999</CategoryFares>
+		<Amenities>NB $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40788</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Amsterdam</Ship>
+		<GroupNum>TQR Voy A130</GroupNum>
+		<Product>G#8192</Product>
+		<CategoryFares>K 2099 E 2299 B 4699</CategoryFares>
+		<Amenities>Rt SEA $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40790</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Statendam</Ship>
+		<GroupNum>TPM Voy S145</GroupNum>
+		<Product>G#8195</Product>
+		<CategoryFares>K 849 E 1049</CategoryFares>
+		<Amenities>SB $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40796</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Westerdam</Ship>
+		<GroupNum>TPP Voy W151 </GroupNum>
+		<Product>M#8123</Product>
+		<CategoryFares>J 879, D1199, VD 1449</CategoryFares>
+		<Amenities>Rt Sea$25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40802</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Amsterdam</Ship>
+		<GroupNum>TPF Voy A131</GroupNum>
+		<Product>G#8192</Product>
+		<CategoryFares>K 749 E 899 B 1499</CategoryFares>
+		<Amenities>Rt SEA $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40804</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zaandam</Ship>
+		<GroupNum>TPQ Voy X156</GroupNum>
+		<Product>G#8193</Product>
+		<CategoryFares>K 749 E 899 B 1499</CategoryFares>
+		<Amenities>Rt YVR $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40673</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sea</Ship>
+		<GroupNum>TRD Voy C111</GroupNum>
+		<Product>G#8175</Product>
+		<CategoryFares>J 999, G 1599, BD 1999</CategoryFares>
+		<Amenities>Rt SF $25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40678</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sapphire</Ship>
+		<GroupNum>TR9 Voy H122</GroupNum>
+		<Product>G#8175</Product>
+		<CategoryFares>J 649, F 824, BD 1174</CategoryFares>
+		<Amenities>Rt Sea Photo</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40684</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Golden</Ship>
+		<GroupNum>TR4 Voy 5113</GroupNum>
+		<Product>G#8175</Product>
+		<CategoryFares>J 799, F 999, BD 1399</CategoryFares>
+		<Amenities>Rt Sea Photo</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40684</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TVJ Voy 6114</GroupNum>
+		<Product>G# 8162</Product>
+		<CategoryFares>JJ 1473, EE 1923, BD 2123</CategoryFares>
+		<Amenities>CT # HA5 $25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40691</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TTN Voy 6115 </GroupNum>
+		<Product>G#8176</Product>
+		<CategoryFares>JJ 849, F 1024, BE 1574</CategoryFares>
+		<Amenities>SB $25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40691</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Diamond</Ship>
+		<GroupNum>TTF Voy M112</GroupNum>
+		<Product>G#8176</Product>
+		<CategoryFares>J 799, F 974, BD 1499</CategoryFares>
+		<Amenities>NB $25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40691</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Golden</Ship>
+		<GroupNum>TRC Voy 5114</GroupNum>
+		<Product>M#8159</Product>
+		<CategoryFares>J 874, EE 1374, BC 1549</CategoryFares>
+		<Amenities>RT Sea $25 SBC per person OH</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40691</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Diamond</Ship>
+		<GroupNum>TOU Voy M112</GroupNum>
+		<Product>M#8152</Product>
+		<CategoryFares>J 1573</CategoryFares>
+		<Amenities>CT # 15N $75 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40698</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TR2 Voy 6116</GroupNum>
+		<Product>G#8176</Product>
+		<CategoryFares>J 874, F 1099, BE 1649</CategoryFares>
+		<Amenities>NB Photo</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40698</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Golden</Ship>
+		<GroupNum>TQ3 Voy 5115</GroupNum>
+		<Product>G#8175</Product>
+		<CategoryFares>J 949, F1199, BD 1699</CategoryFares>
+		<Amenities>Rt Sea</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40703</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sea</Ship>
+		<GroupNum>TR2 Voy C114</GroupNum>
+		<Product>G#8175</Product>
+		<CategoryFares>J1249, GG 1849, BD 2299</CategoryFares>
+		<Amenities>Rt SF Wine</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40706</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sapphire</Ship>
+		<GroupNum>TRF Voy H126</GroupNum>
+		<Product>G#8175</Product>
+		<CategoryFares>J 849, 1124, BD 1674</CategoryFares>
+		<Amenities>Rt Sea</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40712</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TS9 Voy 6118</GroupNum>
+		<Product>M#8162</Product>
+		<CategoryFares>I 1823, EE 2473, BD 2698</CategoryFares>
+		<Amenities>CT #AA3 $50 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40712</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Diamond</Ship>
+		<GroupNum>TSK Voy M115</GroupNum>
+		<Product>G#8176</Product>
+		<CategoryFares>J 1074, F 1349, BD 2049</CategoryFares>
+		<Amenities>SB Photo</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40727</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sapphire</Ship>
+		<GroupNum>TRC Voy H129</GroupNum>
+		<Product>G#8175</Product>
+		<CategoryFares>J 899, F 1199, BD 1799</CategoryFares>
+		<Amenities>Rt Sea</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40733</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Diamond</Ship>
+		<GroupNum>TRS Voy M118</GroupNum>
+		<Product>G#8176</Product>
+		<CategoryFares>J 1099, F 1399, BD 2099</CategoryFares>
+		<Amenities>NB </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40740</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Golden</Ship>
+		<GroupNum>TQR Voy 5121</GroupNum>
+		<Product>M#8159</Product>
+		<CategoryFares>J 1099, EE 1749, BC 1999</CategoryFares>
+		<Amenities>RT Sea $25 SBC per person </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40747</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TQ3 Voy 6123 </GroupNum>
+		<Product>G#8176</Product>
+		<CategoryFares>JJ 1149, F 1449, BE 2199</CategoryFares>
+		<Amenities>SB</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40753</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sea</Ship>
+		<GroupNum>TQN Voy C119</GroupNum>
+		<Product>G#8175</Product>
+		<CategoryFares>J 1399, GG 1999, BD 2499</CategoryFares>
+		<Amenities>Rt SF</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40773</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sea</Ship>
+		<GroupNum>TRZ Voy C127</GroupNum>
+		<Product>G#8175</Product>
+		<CategoryFares>J 1249, GG 1849, BD 2299</CategoryFares>
+		<Amenities>Rt SF  Wine</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40775</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Golden</Ship>
+		<GroupNum>TQ6 Voy 5126</GroupNum>
+		<Product>G#8175</Product>
+		<CategoryFares>J 949, F1199, BD 1699</CategoryFares>
+		<Amenities>Rt Sea</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40779</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Island</Ship>
+		<GroupNum>TQW Voy 2127</GroupNum>
+		<Product>M#8152</Product>
+		<CategoryFares>JJ 2048, EE 2648, BD 2848</CategoryFares>
+		<Amenities>CT #JA6 $25 SBC per person PH</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40782</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Diamond</Ship>
+		<GroupNum>TRT Voy M125 </GroupNum>
+		<Product>G#8176</Product>
+		<CategoryFares>J 999, F 1249, BD 1899</CategoryFares>
+		<Amenities>SB</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40782</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TQK Voy 6128</GroupNum>
+		<Product>G#8176</Product>
+		<CategoryFares>JJ 949, F 1199, BE 1799</CategoryFares>
+		<Amenities>NB Photo</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40782</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TRJ Voy 6128</GroupNum>
+		<Product>M#8162</Product>
+		<CategoryFares>JJ 1648, D 2348, BE 2498</CategoryFares>
+		<Amenities>CT #AA3 $50 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40782</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Diamond</Ship>
+		<GroupNum>TRT Voy M125 </GroupNum>
+		<Product>G#8176</Product>
+		<CategoryFares>J 999, F 1249, BD 1899</CategoryFares>
+		<Amenities>SB Photo</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40783</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sapphire</Ship>
+		<GroupNum>TQB Voy H137</GroupNum>
+		<Product>G#8175</Product>
+		<CategoryFares>J 749, F 974, BD 1424</CategoryFares>
+		<Amenities>Rt Sea</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40789</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TRV Voy 6129</GroupNum>
+		<Product>G#8176</Product>
+		<CategoryFares>JJ 924, F 1149, BE 1749</CategoryFares>
+		<Amenities>SB $25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40789</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Golden</Ship>
+		<GroupNum>TRT Voy 5128</GroupNum>
+		<Product>M#8159</Product>
+		<CategoryFares>J 799, EE 1249, BD 1399</CategoryFares>
+		<Amenities>RT Sea $25 SBC per person PH</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40790</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sapphire</Ship>
+		<GroupNum>TRP Voy H138</GroupNum>
+		<Product>G#8175</Product>
+		<CategoryFares>J 699, F 899, BD 1299</CategoryFares>
+		<Amenities>Rt Sea Photo</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40793</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sea</Ship>
+		<GroupNum>TS2 Voy C130</GroupNum>
+		<Product>G#8175</Product>
+		<CategoryFares>J 1049, GG 1649, BD 2049</CategoryFares>
+		<Amenities>Rt SF Wine</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40796</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Golden</Ship>
+		<GroupNum>TQ5 Voy 5129</GroupNum>
+		<Product>G#8175</Product>
+		<CategoryFares>J 724, F 899, BD 1249</CategoryFares>
+		<Amenities>Rt Sea Photo</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Alaska</Destination>
+		<Date>40803</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Diamond</Ship>
+		<GroupNum>TQQ Voy M128</GroupNum>
+		<Product>G#8176</Product>
+		<CategoryFares>J 799, F 974, BD 1499</CategoryFares>
+		<Amenities>NB $25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Asia</Destination>
+		<Date>40566</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ocean</Ship>
+		<GroupNum>TN0 Voy 7103</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>F 2795, BF 4765, AB 4020</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Asia</Destination>
+		<Date>40598</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ocean</Ship>
+		<GroupNum>TNX Voy 7105</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>F 1995, BD 2545</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Asia</Destination>
+		<Date>40621</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Diamond</Ship>
+		<GroupNum>TNS Voy M107</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>J 2195,F 2445</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Asia</Destination>
+		<Date>40622</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ocean</Ship>
+		<GroupNum>TNZ Voy 7107</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>F 1995, BD 2545</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Asia</Destination>
+		<Date>40653</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Diamond</Ship>
+		<GroupNum>TNS Voy M109</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>J 2195, F 2445</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Asia</Destination>
+		<Date>40723</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sun</Ship>
+		<GroupNum>TQ0 Voy S110</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>JJ 2095, D 2775, BC 3095</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Asia</Destination>
+		<Date>40771</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sun</Ship>
+		<GroupNum>Voy S113</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>?</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Asia</Destination>
+		<Date>40842</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Diamond</Ship>
+		<GroupNum>TN$ Voy M131</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>J 1995, EE 2520, BD 3195</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Asia</Destination>
+		<Date>40874</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Diamond</Ship>
+		<GroupNum>TN5 Voy M133</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>J 1995, EE 2520, BD 3195</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Asia</Destination>
+		<Date>40893</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Diamond</Ship>
+		<GroupNum>TPK Voy M134</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>J 1895, EE 2395, BD 2695</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40599</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Westerdam</Ship>
+		<GroupNum>TN3 Voy W117</GroupNum>
+		<Product>M#8121</Product>
+		<CategoryFares>J 769, D 909, VD 0149</CategoryFares>
+		<Amenities>$25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40641</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Westerdam</Ship>
+		<GroupNum>TP5 Voy W123</GroupNum>
+		<Product>M#8121</Product>
+		<CategoryFares>J 819, D 959, VD 1099</CategoryFares>
+		<Amenities>$25 SBC per person  </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40908</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Eurodam</Ship>
+		<GroupNum>TNN Voy D 165</GroupNum>
+		<Product>G#8182</Product>
+		<CategoryFares>K 1199 D 1389 VD 1599</CategoryFares>
+		<Amenities>Rt FLL $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40546</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Grand</Ship>
+		<GroupNum>TPC Voy A102</GroupNum>
+		<Product>G#8172</Product>
+		<CategoryFares>J 1419, F1749, BD 2149</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40559</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ruby</Ship>
+		<GroupNum>TN3 Voy R104</GroupNum>
+		<Product>G#8172</Product>
+		<CategoryFares>J 669, F 769, BD 1039</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40580</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ruby</Ship>
+		<GroupNum>TN5 Voy R107</GroupNum>
+		<Product>G#8172</Product>
+		<CategoryFares>J 769, F 869, BD 1139</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40588</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Grand</Ship>
+		<GroupNum>TPM Voy A105</GroupNum>
+		<Product>G#8172</Product>
+		<CategoryFares>J 1519, F 1849, BD 2249</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40590</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Emerald</Ship>
+		<GroupNum>TPN Voy E106</GroupNum>
+		<Product>G#8172</Product>
+		<CategoryFares>J 1099, F 1379, BD 1749</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40608</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ruby</Ship>
+		<GroupNum>TN3 Voy R111</GroupNum>
+		<Product>G#8172</Product>
+		<CategoryFares>J 819, F 919, BD 1189</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40615</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ruby</Ship>
+		<GroupNum>TVM Voy R112</GroupNum>
+		<Product>Ellen</Product>
+		<CategoryFares>M 699, D 864, BG 1049</CategoryFares>
+		<Amenities>?</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40630</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Grand</Ship>
+		<GroupNum>TNM Voy A108</GroupNum>
+		<Product>G#8172</Product>
+		<CategoryFares>J 1519, F 1849, BD 2249</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40657</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ruby</Ship>
+		<GroupNum>TN1 Voy R118</GroupNum>
+		<Product>G#8172</Product>
+		<CategoryFares>J 969, F 1069, BD 1339</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40658</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Grand</Ship>
+		<GroupNum>TNR Voy A110</GroupNum>
+		<Product>G#8172</Product>
+		<CategoryFares>J 1519, F 1849, BD 2249</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40664</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ruby</Ship>
+		<GroupNum>TPW Voy R119</GroupNum>
+		<Product>G#8172</Product>
+		<CategoryFares>J 819, F 919, BD 1189</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40671</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TNX Voy B120</GroupNum>
+		<Product>G#8172</Product>
+		<CategoryFares>KK 999, EE 1199, BD 1399</CategoryFares>
+		<Amenities>CA/NE</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40725</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TN6 Voy B126</GroupNum>
+		<Product>G#8172</Product>
+		<CategoryFares>KK 1399 EE 1739, BD 1949</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40845</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Emerald</Ship>
+		<GroupNum>TPN Voy E129</GroupNum>
+		<Product>G#8172</Product>
+		<CategoryFares>J 999, F 1149, BD 1549</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40845</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TPW Voy B142</GroupNum>
+		<Product>G#8172</Product>
+		<CategoryFares>J 899, F 999, BD 1299</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40853</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ruby</Ship>
+		<GroupNum>TPF Voy R134</GroupNum>
+		<Product>G#8172</Product>
+		<CategoryFares>J 649, F 749, BD 999</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40881</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ruby</Ship>
+		<GroupNum>TPL Voy R138</GroupNum>
+		<Product>G#8172</Product>
+		<CategoryFares>J 599, F 699, BD 949</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40651</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Nieuw Amsterdam</Ship>
+		<GroupNum>TQM Voy I130</GroupNum>
+		<Product>M#8120</Product>
+		<CategoryFares>K 1699, GG 1999, VD 2499</CategoryFares>
+		<Amenities>$100 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40721</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Eurodam</Ship>
+		<GroupNum>TQR Voy D133</GroupNum>
+		<Product>M#8131</Product>
+		<CategoryFares>K 2099, VC 2999</CategoryFares>
+		<Amenities>$50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40740</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Nieuw Amsterdam</Ship>
+		<GroupNum>TQM Voy I147</GroupNum>
+		<Product>M#8120</Product>
+		<CategoryFares>K 2099, GG 2399,VD 2799</CategoryFares>
+		<Amenities>$50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40748</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Eurodam</Ship>
+		<GroupNum>TP3 Voy R143</GroupNum>
+		<Product>M#8131</Product>
+		<CategoryFares>K 1299, E 1539, B 2399</CategoryFares>
+		<Amenities>$75 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40755</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Eurodam</Ship>
+		<GroupNum>TP4 Voy D136</GroupNum>
+		<Product>M#8131</Product>
+		<CategoryFares>K 2099, D 2519, VD 2899</CategoryFares>
+		<Amenities>$100 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40767</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Eurodam</Ship>
+		<GroupNum>TRJ Voy D137</GroupNum>
+		<Product>M#8131</Product>
+		<CategoryFares>K 2099, D 2519, VC 2999</CategoryFares>
+		<Amenities>$50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40795</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Nieuw Amsterdam</Ship>
+		<GroupNum>TQS Voy I152</GroupNum>
+		<Product>M#8120</Product>
+		<CategoryFares>K 2099, D 2519, VD 2999</CategoryFares>
+		<Amenities>Med $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40660</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Emerald</Ship>
+		<GroupNum>TSK Voy E113N</GroupNum>
+		<Product>G#8178</Product>
+		<CategoryFares>J 1195, EE 1595, BG 4210</CategoryFares>
+		<Amenities>Crossing</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40681</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Star</Ship>
+		<GroupNum>TVR Voy 9112</GroupNum>
+		<Product>G#8169</Product>
+		<CategoryFares>J 1840, F 2140, BC 3040</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40682</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Pacific</Ship>
+		<GroupNum>TSO Voy K105</GroupNum>
+		<Product>G#8178</Product>
+		<CategoryFares>I 2740, F 2890, BC 3540</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40684</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Grand</Ship>
+		<GroupNum>TSW Voy A111</GroupNum>
+		<Product>G#8179</Product>
+		<CategoryFares>J 1079, F 1249, BD 1649</CategoryFares>
+		<Amenities>IB</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40685</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Crown</Ship>
+		<GroupNum>TWX Voy 3120 </GroupNum>
+		<Product>G#8169</Product>
+		<CategoryFares>KK 1790, F 2090, BE 2890</CategoryFares>
+		<Amenities>Br Is</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40687</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Emerald</Ship>
+		<GroupNum>TWM Voy E115</GroupNum>
+		<Product>G#8178</Product>
+		<CategoryFares>KK 1540, F 1840, BD 2640</CategoryFares>
+		<Amenities>Scand</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40690</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ocean</Ship>
+		<GroupNum>TTD Voy 7111</GroupNum>
+		<Product>G#8169</Product>
+		<CategoryFares>I 2440, F 2540, BC 3240</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40691</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ruby</Ship>
+		<GroupNum>TTN Voy R121</GroupNum>
+		<Product>G#8179</Product>
+		<CategoryFares>KK 1940, F 2240, BE 3240</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40697</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Crown</Ship>
+		<GroupNum>TR2 Voy 3121</GroupNum>
+		<Product>M#8157</Product>
+		<CategoryFares>KK 1840, D 2490, BE 2940</CategoryFares>
+		<Amenities>$50 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40698</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Grand</Ship>
+		<GroupNum>TVF Voy A113</GroupNum>
+		<Product>G#8179</Product>
+		<CategoryFares>J 1590, F 1890, BD 2690</CategoryFares>
+		<Amenities>IB</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40715</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ruby</Ship>
+		<GroupNum>TWW Voy R123</GroupNum>
+		<Product>G#8179</Product>
+		<CategoryFares>KK 2090, F 2390, BE 3290</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40717</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Star</Ship>
+		<GroupNum>TT7 Voy 9115</GroupNum>
+		<Product>G#8169</Product>
+		<CategoryFares>J 2090, F 2390, BC 3290</CategoryFares>
+		<Amenities>Gr Is</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40720</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Emerald</Ship>
+		<GroupNum>TTQ Voy E118</GroupNum>
+		<Product>G#8178</Product>
+		<CategoryFares>J 1790, F 2090, BD 2890</CategoryFares>
+		<Amenities>Scand</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40730</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Pacific</Ship>
+		<GroupNum>TST Voy K109</GroupNum>
+		<Product>G#8178</Product>
+		<CategoryFares>I 2890, F 3040, BD 3690</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40733</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Crown</Ship>
+		<GroupNum>TS5 Voy 3124</GroupNum>
+		<Product>G#8169</Product>
+		<CategoryFares>KK 1279, F 1449</CategoryFares>
+		<Amenities>Nor Fj</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40739</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ruby</Ship>
+		<GroupNum>TVQ Voy R125</GroupNum>
+		<Product>G#8179</Product>
+		<CategoryFares>KK 2090, F 2390, BE 3290</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40742</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Emerald</Ship>
+		<GroupNum>TR9 Voy E120</GroupNum>
+		<Product>M#8157</Product>
+		<CategoryFares>J 1790, F 2090, BD 2890</CategoryFares>
+		<Amenities>$50 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40747</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Grand</Ship>
+		<GroupNum>TTW Voy A117</GroupNum>
+		<Product>G#8179</Product>
+		<CategoryFares>J 2440, F 2740, BD 3540</CategoryFares>
+		<Amenities>AD</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40753</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Star</Ship>
+		<GroupNum>TSS Voy 9118</GroupNum>
+		<Product>G#8169</Product>
+		<CategoryFares>J 2090, F 2390, BC 3290</CategoryFares>
+		<Amenities>Gr Is</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40761</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Grand</Ship>
+		<GroupNum>TTV Voy A118</GroupNum>
+		<Product>G#8179</Product>
+		<CategoryFares>J 2440, F 2740, BD 3540</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40763</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ruby</Ship>
+		<GroupNum>TWG Voy R127</GroupNum>
+		<Product>G#8179</Product>
+		<CategoryFares>KK 2040, F2340, BE 3240</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40764</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Emerald</Ship>
+		<GroupNum>TT9 Voy E122</GroupNum>
+		<Product>G#8178</Product>
+		<CategoryFares>J 1790, F 2090, BD 2890</CategoryFares>
+		<Amenities>Scand</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40765</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Star</Ship>
+		<GroupNum>TT5 Voy 9119</GroupNum>
+		<Product>G#8169</Product>
+		<CategoryFares>J 2040, F 2340, BD 3240</CategoryFares>
+		<Amenities>Gr Is</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40766</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Pacific</Ship>
+		<GroupNum>TSR Voy K112</GroupNum>
+		<Product>G#8178</Product>
+		<CategoryFares>I 2840, F 2990, BD 3640</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40771</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Crown</Ship>
+		<GroupNum>TVQ Voy 3128</GroupNum>
+		<Product>G#8169</Product>
+		<CategoryFares>KK 1840, F 2140, BE 2940</CategoryFares>
+		<Amenities>Br Is</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40780</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ocean</Ship>
+		<GroupNum>TTB Voy 7117</GroupNum>
+		<Product>G#8169</Product>
+		<CategoryFares>I 1249, F 1349, BC 1999</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40789</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Grand</Ship>
+		<GroupNum>TTM Voy A120</GroupNum>
+		<Product>G#8179</Product>
+		<CategoryFares>J 2340, F 2640, BD 3440</CategoryFares>
+		<Amenities>AD</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40789</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Star</Ship>
+		<GroupNum>TT9 Voy 9121</GroupNum>
+		<Product>G#8169</Product>
+		<CategoryFares>J 1940, F 2240, BD 3140</CategoryFares>
+		<Amenities>Gr Is</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40790</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Pacific</Ship>
+		<GroupNum>TTB Voy K114</GroupNum>
+		<Product>G#8178</Product>
+		<CategoryFares>I 2740, F 2890, BC 3540</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40801</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Star</Ship>
+		<GroupNum>TTB Voy 9122</GroupNum>
+		<Product>G#8169</Product>
+		<CategoryFares>J 1940, F 2240, BD 3140</CategoryFares>
+		<Amenities>Gr Med</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40803</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ocean</Ship>
+		<GroupNum>TQC Voy 7120</GroupNum>
+		<Product>M#8157</Product>
+		<CategoryFares>I 1199, E 1499, BC 1949</CategoryFares>
+		<Amenities>$50 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40811</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ruby</Ship>
+		<GroupNum>TWN Voy R131 </GroupNum>
+		<Product>G#8179</Product>
+		<CategoryFares>KK 1890, F 2190, BE 3090</CategoryFares>
+		<Amenities>Gr Is</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40817</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ocean</Ship>
+		<GroupNum>TSD Voy 7122</GroupNum>
+		<Product>G#8169</Product>
+		<CategoryFares>I 1099, F 1199, BD 1849</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40820</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Grand</Ship>
+		<GroupNum>TTV Voy A123</GroupNum>
+		<Product>G#8179</Product>
+		<CategoryFares>J 265O, F 3050, BD 4140</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40823</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ruby</Ship>
+		<GroupNum>TW9 Voy R132</GroupNum>
+		<Product>G#8179</Product>
+		<CategoryFares>KK 1790, F 2090, BE 2890</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40826</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Pacific</Ship>
+		<GroupNum>TR4 Voy K117</GroupNum>
+		<Product>M#8157</Product>
+		<CategoryFares>I 2640, F 2790, BD 3440</CategoryFares>
+		<Amenities>$75 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40837</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Star</Ship>
+		<GroupNum>TW9 Voy 9125</GroupNum>
+		<Product>G#8169</Product>
+		<CategoryFares>J 1690, F 1990, BD 2790</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40838</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Pacific</Ship>
+		<GroupNum>TS7, Voy K118</GroupNum>
+		<Product>G#8178</Product>
+		<CategoryFares>I 2640, F 2790, BD 344O</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40849</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Star</Ship>
+		<GroupNum>TTH Voy 9126</GroupNum>
+		<Product>G#8169</Product>
+		<CategoryFares>J 1590, F 1890, BD 2690</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Europe</Destination>
+		<Date>40885</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Star</Ship>
+		<GroupNum>TSJ Voy 9129</GroupNum>
+		<Product>G#8169</Product>
+		<CategoryFares>J 1170, D1545, BC 1695</CategoryFares>
+		<Amenities>Crossing</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South America</Destination>
+		<Date>40566</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Veendam</Ship>
+		<GroupNum>TSG Voy E111</GroupNum>
+		<Product>G#8188</Product>
+		<CategoryFares>L 1299, FF 1499</CategoryFares>
+		<Amenities>$50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South America</Destination>
+		<Date>40590</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Veendam</Ship>
+		<GroupNum>TP2 Voy E113</GroupNum>
+		<Product>M#8128</Product>
+		<CategoryFares>K 1799, E 2059, B 3899</CategoryFares>
+		<Amenities>$50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South America</Destination>
+		<Date>40548</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Pacific</Ship>
+		<GroupNum>TN0 Voy K102</GroupNum>
+		<Product>G#8164</Product>
+		<CategoryFares>I 2655, F 2795</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South America</Destination>
+		<Date>40569</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Star</Ship>
+		<GroupNum>TN0 Voy 9103</GroupNum>
+		<Product>G#8164</Product>
+		<CategoryFares>J 1645, F 1895</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South America</Destination>
+		<Date>40597</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Star</Ship>
+		<GroupNum>TN1 Voy 9105</GroupNum>
+		<Product>G#8164</Product>
+		<CategoryFares>J 1645, F 1895</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South America</Destination>
+		<Date>40611</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Star</Ship>
+		<GroupNum>TNV Voy 9106</GroupNum>
+		<Product>G#8164</Product>
+		<CategoryFares>J 1645, F 1895</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South America</Destination>
+		<Date>40893</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Pacific</Ship>
+		<GroupNum>TPL Voy K122</GroupNum>
+		<Product>G#8164</Product>
+		<CategoryFares>I 3195, F 3295, BD 3995</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South America</Destination>
+		<Date>40901</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Star</Ship>
+		<GroupNum>TPG Voy 9201</GroupNum>
+		<Product>G#8164</Product>
+		<CategoryFares>J 1795, EE 2145, BD 3695</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40587</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Volendam</Ship>
+		<GroupNum>TSX Voy V113</GroupNum>
+		<Product>M#8130</Product>
+		<CategoryFares>K 1699, E 1959, AA 4019</CategoryFares>
+		<Amenities>$50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40900</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zaandam</Ship>
+		<GroupNum>TNX Voy X183</GroupNum>
+		<Product>G#8185</Product>
+		<CategoryFares>K 2399 EE 2599 B 4999</CategoryFares>
+		<Amenities>SYD/SIN $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40555</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sun</Ship>
+		<GroupNum>TNN Voy S102</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>JJ 1545, GG 1995, BC 2495</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40558</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Diamond</Ship>
+		<GroupNum>TNX Voy M103</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>J 1345, F 1595, BC 2245</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40559</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Dawn</Ship>
+		<GroupNum>TNX Voy D103</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>JJ 1545, GG 1995, BC 2495</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40585</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Dawn</Ship>
+		<GroupNum>TNW Voy D105</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>JJ 1545, GG 1995, BC 2495</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40594</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sun</Ship>
+		<GroupNum>TNP Voy S105</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>JJ 1545, GG 1995, BC 2495</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40605</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Royal</Ship>
+		<GroupNum>TNP Voy 1107</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>I 1645, GG 1745, BC 2195</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40649</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sun</Ship>
+		<GroupNum>TR6 S107</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>JJ 2895, E 3445, BC 3895</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40676</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Dawn</Ship>
+		<GroupNum>TQT Voy D110</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>JJ 1795, E 2395, BC 2795</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40838</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sapphire</Ship>
+		<GroupNum>TQR Voy H145</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>J 3495, EE 4595, BD 5295</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40894</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ocean</Ship>
+		<GroupNum>TN8 Voy 7127</GroupNum>
+		<Product>G#8173</Product>
+		<CategoryFares>I 2195, F 2295, BD 2795</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40564</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Statendam</Ship>
+		<GroupNum>TPR Voy S111</GroupNum>
+		<Product>M#8127</Product>
+		<CategoryFares>K 1599, E 1859, B 3299</CategoryFares>
+		<Amenities>PC $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40565</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zuiderdam</Ship>
+		<GroupNum>TPB Voy U112</GroupNum>
+		<Product>M#8127</Product>
+		<CategoryFares>J 1319, D 1489, VD 1799</CategoryFares>
+		<Amenities>PC $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40590</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Noordam</Ship>
+		<GroupNum>TQF Voy N119</GroupNum>
+		<Product>M#8129</Product>
+		<CategoryFares>J 1129, D 1289, VD 1499</CategoryFares>
+		<Amenities>$25 SBC per person CH</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40630</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Noordam</Ship>
+		<GroupNum>TP4 Voy N123</GroupNum>
+		<Product>M#8129</Product>
+		<CategoryFares>J 1129, D 1289, VD 1499</CategoryFares>
+		<Amenities>$25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40634</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Statendam</Ship>
+		<GroupNum>TQ1 Voy S116</GroupNum>
+		<Product>M#8127</Product>
+		<CategoryFares>K 1599, E 1859, B 3299</CategoryFares>
+		<Amenities>PC $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40636</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Rotterdam</Ship>
+		<GroupNum>TRG Voy T120</GroupNum>
+		<Product>M#8127</Product>
+		<CategoryFares>K 1599, E 1859, A 3579</CategoryFares>
+		<Amenities>PC $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40895</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Westerdam</Ship>
+		<GroupNum>TNL Voy W175</GroupNum>
+		<Product>G#8129</Product>
+		<CategoryFares>K 1199 D 1419 VD 1599</CategoryFares>
+		<Amenities>Rt FLL $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40552</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Island</Ship>
+		<GroupNum>TNZ Voy 2102</GroupNum>
+		<Product>G#8174</Product>
+		<CategoryFares>JJ 1299, F 1499, BD 1799</CategoryFares>
+		<Amenities>PC </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40557</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TPC Voy 6102</GroupNum>
+		<Product>G#8174</Product>
+		<CategoryFares>JJ 1299, F 1499, BD 1799</CategoryFares>
+		<Amenities>PC </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40559</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TN4 Voy B104</GroupNum>
+		<Product>G#8171</Product>
+		<CategoryFares>J 669, F 769, BD 1039</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40560</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Emerald</Ship>
+		<GroupNum>TPR Voy E103</GroupNum>
+		<Product>G#8171</Product>
+		<CategoryFares>J 999, F 1279, BD 1649</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40582</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Island</Ship>
+		<GroupNum>TN5 Voy 2105</GroupNum>
+		<Product>G#8174</Product>
+		<CategoryFares>JJ 1349, F 1549, BD 1849</CategoryFares>
+		<Amenities>PC </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40594</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TN2 Voy B109</GroupNum>
+		<Product>G#8171</Product>
+		<CategoryFares>J 919, F 1019, BD 1289</CategoryFares>
+		<Amenities> </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40597</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TPF Voy 6105</GroupNum>
+		<Product>G#8174</Product>
+		<CategoryFares>JJ 1449, F 1649, BD 1949</CategoryFares>
+		<Amenities>PC </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40610</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Emerald</Ship>
+		<GroupNum>TPM Voy E108</GroupNum>
+		<Product>G#8171</Product>
+		<CategoryFares>J 1099, F 1379, BD 1749</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40615</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TPC Voy B112</GroupNum>
+		<Product>G#8171</Product>
+		<CategoryFares>J 819, F 919, BD 1189</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40617</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Island</Ship>
+		<GroupNum>TPF Voy 2108</GroupNum>
+		<Product>G#8174</Product>
+		<CategoryFares>JJ 1999, F 2299, BD 2699</CategoryFares>
+		<Amenities>PC </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40627</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TN5 Voy 6108</GroupNum>
+		<Product>G#8174</Product>
+		<CategoryFares>JJ 1449, F 1649, BD 1949</CategoryFares>
+		<Amenities>PC </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40643</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TN9 Voy B116</GroupNum>
+		<Product>G#8171</Product>
+		<CategoryFares>J 819, F 919, BD 1189</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40647</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TN2 Voy 6110</GroupNum>
+		<Product>G#8174</Product>
+		<CategoryFares>JJ 1449, F 1649, BD 1949</CategoryFares>
+		<Amenities>PC </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40660</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Emerald</Ship>
+		<GroupNum>TPC Voy E113</GroupNum>
+		<Product>G#8171</Product>
+		<CategoryFares>J 1099, F 1379, BD 1749</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40662</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Island</Ship>
+		<GroupNum>TPG Voy 2111</GroupNum>
+		<Product>G#8174</Product>
+		<CategoryFares>JJ 1999, F 2299, BD 2699</CategoryFares>
+		<Amenities>PC </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40664</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TPD Voy B119</GroupNum>
+		<Product>G#8171</Product>
+		<CategoryFares>J 819, F 919, BD 1189</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40667</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TPQ Voy 6112</GroupNum>
+		<Product>G#8174</Product>
+		<CategoryFares>F 2299, BD 2699</CategoryFares>
+		<Amenities>PC </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40815</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Emerald</Ship>
+		<GroupNum>TPV Voy E126</GroupNum>
+		<Product>G#8171</Product>
+		<CategoryFares>J 999, F 1149, BD 1549</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40846</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Island</Ship>
+		<GroupNum>TPS Voy 2135</GroupNum>
+		<Product>G#8161</Product>
+		<CategoryFares>JJ 1099, F 1249, BE 1599</CategoryFares>
+		<Amenities>PC </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40855</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Emerald</Ship>
+		<GroupNum>TPL Voy E130</GroupNum>
+		<Product>G#8171</Product>
+		<CategoryFares>J 999, F 1149, BD 1549</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40859</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Crown</Ship>
+		<GroupNum>TN7 Voy 3136</GroupNum>
+		<Product>G#8171</Product>
+		<CategoryFares>J 649, F 749, BD 999</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40866</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Island</Ship>
+		<GroupNum>TPV Voy 2137</GroupNum>
+		<Product>G#8161</Product>
+		<CategoryFares>JJ 1099, F 1249, BE 1599</CategoryFares>
+		<Amenities>PC </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40866</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Grand</Ship>
+		<GroupNum>TPS Voy A126</GroupNum>
+		<Product>G#8171</Product>
+		<CategoryFares>J 1399, F 1599, BC 2099</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40867</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TPL Voy B144</GroupNum>
+		<Product>G#8171</Product>
+		<CategoryFares>J 799, F 899, BD 1149</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40869</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TPX Voy 6137</GroupNum>
+		<Product>G#8161</Product>
+		<CategoryFares>JJ 1599, F 1799, BE 2199</CategoryFares>
+		<Amenities>PC </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40894</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Grand</Ship>
+		<GroupNum>TPS Voy A128</GroupNum>
+		<Product>G#8171</Product>
+		<CategoryFares>J 2149, F 2449, BC 2899</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40895</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Emerald</Ship>
+		<GroupNum>TPQ Voy E134</GroupNum>
+		<Product>G#8171</Product>
+		<CategoryFares>J 1499, F 1699, BD 2149</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40896</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Island</Ship>
+		<GroupNum>TPR Voy 2140</GroupNum>
+		<Product>G#8161</Product>
+		<CategoryFares>JJ 1749, F 1949, BE 2249</CategoryFares>
+		<Amenities>PC </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40897</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TPV Voy 6201</GroupNum>
+		<Product>G#8161</Product>
+		<CategoryFares>JJ 2449, F 2649, BE 3149</CategoryFares>
+		<Amenities>PC </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40903</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TPD Voy B201</GroupNum>
+		<Product>G#8171</Product>
+		<CategoryFares>J 1299, F 1599, BD 1899</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40565</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Oosterdam</Ship>
+		<GroupNum>TN7 Voy O113</GroupNum>
+		<Product>M#8156</Product>
+		<CategoryFares>J 669, D 809, VD 899</CategoryFares>
+		<Amenities>Mex $75 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40566</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zaandam</Ship>
+		<GroupNum>TQH Voy X114</GroupNum>
+		<Product>M#8122</Product>
+		<CategoryFares>K 1599, E 1859, B 3109</CategoryFares>
+		<Amenities>HI $50 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40580</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zaandam</Ship>
+		<GroupNum>TP3 Voy X116</GroupNum>
+		<Product>M#8126</Product>
+		<CategoryFares>K 999, EE 1099, B 2199</CategoryFares>
+		<Amenities>Mex $75 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40593</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Oosterdam</Ship>
+		<GroupNum>TPK Voy O117</GroupNum>
+		<Product>G#8184</Product>
+		<CategoryFares>K 749, D 909, VD 1049</CategoryFares>
+		<Amenities>Mex $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40629</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Zaandam</Ship>
+		<GroupNum>TRL Voy X121</GroupNum>
+		<Product>M#8100</Product>
+		<CategoryFares>K 1599, E 1859, AA 3109</CategoryFares>
+		<Amenities>HI $50 SBC per person Member Cruise</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40735</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Maasdam</Ship>
+		<GroupNum>TPJ Voy M133</GroupNum>
+		<Product>Xanthe</Product>
+		<CategoryFares>K 1099, E 1249, B 2499</CategoryFares>
+		<Amenities>CA/NE </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40782</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Maasdam</Ship>
+		<GroupNum>TQB Voy M138</GroupNum>
+		<Product>M#8125</Product>
+		<CategoryFares>K 1099, E 1279, B 2599</CategoryFares>
+		<Amenities>CA/NE $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40810</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Maasdam</Ship>
+		<GroupNum>TPH Voy M142</GroupNum>
+		<Product>M#8125</Product>
+		<CategoryFares>K 1499, E 1679, B 2899</CategoryFares>
+		<Amenities>CA/NE $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40816</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Eurodam</Ship>
+		<GroupNum>TPZ Voy D145</GroupNum>
+		<Product>M#8125</Product>
+		<CategoryFares>K 1699, D1969, VD 2599</CategoryFares>
+		<Amenities>CA/NE $75 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40824</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Maasdam</Ship>
+		<GroupNum>TPT Voy M144</GroupNum>
+		<Product>M#8125</Product>
+		<CategoryFares>K 1599, E 1779, B 2999</CategoryFares>
+		<Amenities>CA/NE $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40898</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Rotterdam</Ship>
+		<GroupNum>TNT Voy T160</GroupNum>
+		<Product>G#8186</Product>
+		<CategoryFares>K1999 WW 2199 B 4999</CategoryFares>
+		<Amenities>HI Rt SAN $50 SBC per person </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40548</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sapphire</Ship>
+		<GroupNum>TPG Voy H102N</GroupNum>
+		<Product>G#8163</Product>
+		<CategoryFares>J 869, F 1179, BD 1499</CategoryFares>
+		<Amenities>Mex</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40562</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Golden</Ship>
+		<GroupNum>TNT Voy 5103</GroupNum>
+		<Product>G#8165</Product>
+		<CategoryFares>J 1645, F 1845, BC 2455</CategoryFares>
+		<Amenities>HI $25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40571</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Royal</Ship>
+		<GroupNum>TNR Voy 1104</GroupNum>
+		<Product>G#8165</Product>
+		<CategoryFares>GG 2045, BC 2645</CategoryFares>
+		<Amenities>HI $25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40583</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Royal</Ship>
+		<GroupNum>TNS Voy 1105</GroupNum>
+		<Product>G#8165</Product>
+		<CategoryFares>I 1945, GG 2045, BC 2645</CategoryFares>
+		<Amenities>HI $25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40590</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Golden</Ship>
+		<GroupNum>TNS Voy 5105</GroupNum>
+		<Product>G#8165</Product>
+		<CategoryFares>J 1645, F 1845, BC 2455</CategoryFares>
+		<Amenities>HI $25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40600</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sapphire</Ship>
+		<GroupNum>TPL Voy H110N</GroupNum>
+		<Product>G#8165</Product>
+		<CategoryFares>J 1645, F 1845, BD 2395</CategoryFares>
+		<Amenities>HI $25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40614</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sapphire</Ship>
+		<GroupNum>TPC Voy H112</GroupNum>
+		<Product>G#8163</Product>
+		<CategoryFares>J 719, F 869, BD 1049</CategoryFares>
+		<Amenities>Mex $25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40618</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Golden</Ship>
+		<GroupNum>TNX Voy 5107</GroupNum>
+		<Product>G#8165</Product>
+		<CategoryFares>J 1645, F 1845, BC 2455</CategoryFares>
+		<Amenities>HI $25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40642</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sapphire</Ship>
+		<GroupNum>TNR Voy H116</GroupNum>
+		<Product>G#8163</Product>
+		<CategoryFares>J 719, F 869, BD 1049</CategoryFares>
+		<Amenities>Mex $25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40652</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Star</Ship>
+		<GroupNum>TPR Voy 9109</GroupNum>
+		<Product>G#8163</Product>
+		<CategoryFares>J 1069, F 1379, BD 1749</CategoryFares>
+		<Amenities>Mex  </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40652</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Star</Ship>
+		<GroupNum>TPR Voy 9109</GroupNum>
+		<Product>G#8163</Product>
+		<CategoryFares>J 1069, F 1379, BD 1749</CategoryFares>
+		<Amenities>Mex  </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40659</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Royal</Ship>
+		<GroupNum>TNK Voy 1112</GroupNum>
+		<Product>G#8165</Product>
+		<Amenities>HI </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40660</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Golden</Ship>
+		<GroupNum>TNT Voy 5110</GroupNum>
+		<Product>G#8165</Product>
+		<CategoryFares>J 1645, F 1945, BC 2455</CategoryFares>
+		<Amenities>HI $25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40670</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sapphire</Ship>
+		<GroupNum>TTV Voy H120</GroupNum>
+		<Product>M#8156</Product>
+		<CategoryFares>J 709, F 909, BC 1019</CategoryFares>
+		<Amenities>Pac Coast</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40671</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Royal</Ship>
+		<GroupNum>TNQ Voy 1113</GroupNum>
+		<Product>G#8165</Product>
+		<Amenities>HI $25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40716</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TN9 Voy B125</GroupNum>
+		<Product>G#8168</Product>
+		<CategoryFares>J 1349, EE 1844, BD 2149</CategoryFares>
+		<Amenities>CA/NE</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40768</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TN4 Voy B131</GroupNum>
+		<Product>G#8168</Product>
+		<CategoryFares>KK 899, EE 1159, BD 1399</CategoryFares>
+		<Amenities>CA/NE</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40800</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Crown</Ship>
+		<GroupNum>TPD Voy 3130</GroupNum>
+		<Product>G#8168</Product>
+		<CategoryFares>KK 1499, EE 2099, BD 2499</CategoryFares>
+		<Amenities>CA/NE</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40803</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TP9 Voy B136</GroupNum>
+		<Product>M#8158</Product>
+		<CategoryFares>J 899, D 1209, Bd 1399</CategoryFares>
+		<Amenities>CA/NE $25 SBC per person Wine</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40810</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Crown</Ship>
+		<GroupNum>TQG Voy 3131</GroupNum>
+		<Product>M#8158</Product>
+		<CategoryFares>J 1499, EE 2099, BD 2499</CategoryFares>
+		<Amenities>CA/NE $25 SBC per person Wine</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40810</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TN0 Voy B137</GroupNum>
+		<Product>G#8168</Product>
+		<CategoryFares>KK 899, EE 1159, BD 1399</CategoryFares>
+		<Amenities>CA/NE</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40817</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TP4 Voy B138</GroupNum>
+		<Product>M#8158</Product>
+		<CategoryFares>J 899, EE 1159, BD 1399</CategoryFares>
+		<Amenities>CA/NE $25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40820</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Crown</Ship>
+		<GroupNum>TPF Voy 3132</GroupNum>
+		<Product>G#8168</Product>
+		<CategoryFares>KK 1499, EE 2099, BD 2499</CategoryFares>
+		<Amenities>CA/NE</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40824</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TN9 Voy B139</GroupNum>
+		<Product>G#8168</Product>
+		<CategoryFares>KK 899, EE 1159, BD 1399</CategoryFares>
+		<Amenities>CA/NE</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40870</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Golden</Ship>
+		<GroupNum>TPG Voy 5137</GroupNum>
+		<Product>G#8165</Product>
+		<CategoryFares>J 1495, EE 2045, BD 2395</CategoryFares>
+		<Amenities>HI </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40884</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Golden</Ship>
+		<GroupNum>TPD Voy 5138</GroupNum>
+		<Product>G#8165</Product>
+		<CategoryFares>J 1445, EE 1995, BD 2395</CategoryFares>
+		<Amenities>HI</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40894</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sapphire</Ship>
+		<GroupNum>TPD Voy H149</GroupNum>
+		<Product>G#8165</Product>
+		<CategoryFares>J 1995, EE 2545, BD 2895</CategoryFares>
+		<Amenities>HI</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40908</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sapphire</Ship>
+		<GroupNum>TPW Voy H201</GroupNum>
+		<Product>G#8163</Product>
+		<CategoryFares>J 1199, G 2079, BD 1799</CategoryFares>
+		<Amenities>Mex</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Western Caribbean</Destination>
+		<Date>40580</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Ryndam</Ship>
+		<GroupNum>TPS Voy R115</GroupNum>
+		<Product>M#8119</Product>
+		<CategoryFares>K 699, E 819, B 1499</CategoryFares>
+		<Amenities>$25 SBC per person Ch</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Western Caribbean</Destination>
+		<Date>40629</Date>
+		<Vendor>Holland America</Vendor>
+		<Ship>Ryndam</Ship>
+		<GroupNum>TN4 Voy R122</GroupNum>
+		<Product>M#8119</Product>
+		<CategoryFares>K 799, E 919, B 1599</CategoryFares>
+		<Amenities>$25 SBC per person</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Western Caribbean</Destination>
+		<Date>40572</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Crown</Ship>
+		<GroupNum>TN0 Voy 3105</GroupNum>
+		<Product>G#8170</Product>
+		<CategoryFares>J 719, F 819, BD 1089</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Western Caribbean</Destination>
+		<Date>40593</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Crown</Ship>
+		<GroupNum>TN8 Voy 3108</GroupNum>
+		<Product>G#8170</Product>
+		<CategoryFares>J 919, F 1019, BD 1289</CategoryFares>
+		<Amenities> </Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Western Caribbean</Destination>
+		<Date>40614</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Crown</Ship>
+		<GroupNum>TN4 Voy 3111</GroupNum>
+		<Product>G#8170</Product>
+		<CategoryFares>J 819, F 919, BD 1189</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Western Caribbean</Destination>
+		<Date>40649</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Crown</Ship>
+		<GroupNum>TN2 Voy 3116</GroupNum>
+		<Product>G#8170</Product>
+		<CategoryFares>J 969, F 1069, BD 1339</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Western Caribbean</Destination>
+		<Date>40901</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Crown</Ship>
+		<GroupNum>TPF Voy 3142</GroupNum>
+		<Product>G#8170</Product>
+		<CategoryFares>J 1199, F 1499, BD 1799</CategoryFares>
+	</groupcruise>
+	<groupcruise>
+		<Destination>World</Destination>
+		<Date>40562</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Pacific</Ship>
+		<GroupNum>TSB Voy K103</GroupNum>
+		<Product>G#8177</Product>
+		<CategoryFares>107 days FLL ROM</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>World</Destination>
+		<Date>40562</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Pacific</Ship>
+		<GroupNum>TSB Voy K103</GroupNum>
+		<Product>G#8177</Product>
+		<CategoryFares>33 days FLL SYD</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>World</Destination>
+		<Date>40596</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Pacific</Ship>
+		<GroupNum>TSB Voy K103</GroupNum>
+		<Product>G#8177</Product>
+		<CategoryFares>19 days SYD SIN</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>World</Destination>
+		<Date>40615</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Pacific</Ship>
+		<GroupNum>TSB Voy K103</GroupNum>
+		<Product>G#8177</Product>
+		<CategoryFares>30 days SIN CPT</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>World</Destination>
+		<Date>40645</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Pacific</Ship>
+		<GroupNum>TSC Voy K103</GroupNum>
+		<Product>G#8177</Product>
+		<CategoryFares>25 days CPT ROM</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Asia</Destination>
+		<Date>40966</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Diamond</Ship>
+		<GroupNum>TPQ Voy M205</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 1995, EE 2520, BD 3195</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Asia</Destination>
+		<Date>41014</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Diamond</Ship>
+		<GroupNum>TPL Voy M208</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>JJ 2045, F 2295, BD 3195</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40930</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ruby</Ship>
+		<GroupNum>TPH Voy R204</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 699, F 799, BD 1099</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40935</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Emerald</Ship>
+		<GroupNum>TPL Voy E204</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 1049, F 1249, BD 1699</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40944</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ruby</Ship>
+		<GroupNum>TP6 Voy R206</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 699, F 799, BD 1099</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40972</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ruby</Ship>
+		<GroupNum>TN6 Voy R210</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 749, F 849, BD 1199</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>40985</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Emerald</Ship>
+		<GroupNum>TPS Voy E209</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 1099, F 1299, BD 1749</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Eastern Caribbean</Destination>
+		<Date>41007</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ruby</Ship>
+		<GroupNum>TPB Voy R215</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 849, F 949, BD 1299</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South America</Destination>
+		<Date>40915</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Star</Ship>
+		<GroupNum>TPJ Voy 9202</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 1695, EE 2045, BD 3595</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South America</Destination>
+		<Date>40943</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Star</Ship>
+		<GroupNum>TPH Voy 9204</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 1695, EE 2045, BD 3595</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South America</Destination>
+		<Date>40971</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Star</Ship>
+		<GroupNum>TPH Voy 9206</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 1696, EE 2045, BD 3595</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40919</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Diamond</Ship>
+		<GroupNum>TPK Voy M202</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 1595, EE 2095, BD 2395</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40926</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ocean</Ship>
+		<GroupNum>TPD Voy 7203</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>I 1995, F 2095, BD 2595</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40946</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ocean</Ship>
+		<GroupNum>TN8 Voy 7205</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>I 2195, F 2295, BD 2845</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>South Pacific</Destination>
+		<Date>40968</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Ocean</Ship>
+		<GroupNum>TN0 Voy 7207</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>D 3395, BD 3695, AA 4695</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40922</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Crown</Ship>
+		<GroupNum>TPG Voy 3203</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 699, F 799, BD 1099</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40923</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TPB Voy B204</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 699, F 799, BD 1099</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40925</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TPZ Voy 6203</GroupNum>
+		<Product>G#8263</Product>
+		<CategoryFares>JJ 1799, F 1999, BE 2499</CategoryFares>
+		<Amenities>PC</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40926</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Island</Ship>
+		<GroupNum>TPK Voy 2203</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>JJ 1299, F 1499, BE 1799</CategoryFares>
+		<Amenities>PC</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40936</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Grand</Ship>
+		<GroupNum>TPK Voy A203</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 1449, F 1749, BC 2199</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40955</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Emerald</Ship>
+		<GroupNum>TPS Voy E206</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 1099, F 1299, BD 1749</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40956</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Island</Ship>
+		<GroupNum>TPK Voy 2206</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>JJ 1449, F 1649, BE 1949</CategoryFares>
+		<Amenities>PC</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40958</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TN4 Voy B209</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 749, F 849, BD 1199</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40964</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Grand</Ship>
+		<GroupNum>TPL Voy A205</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 1499, F 1799, BC 2249</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40966</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Island</Ship>
+		<GroupNum>TPR Voy 2207</GroupNum>
+		<Product>M#8250</Product>
+		<CategoryFares>AB 2299, BA 2069, BD 1949, EE 1699, JJ 1449</CategoryFares>
+		<Amenities>PC</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40967</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TP1 Voy 6206</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>JJ 1999, F 2199, BE 2699</CategoryFares>
+		<Amenities>PC</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40979</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TN9 Voy B212</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 749, F 849, BD 1199</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40981</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TPZ Voy 6207</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>JJ 1999, F 2199, BE 2699</CategoryFares>
+		<Amenities>PC</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40985</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Crown</Ship>
+		<GroupNum>TPH Voy 3212</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 749, F 849, BD 1199</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40986</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Island</Ship>
+		<GroupNum>TPN Voy 2209</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>JJ 1449, F 1649, BE 1949</CategoryFares>
+		<Amenities>PC</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40995</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TP5 Voy 6208</GroupNum>
+		<Product>M#8250</Product>
+		<CategoryFares>AC 3199, BA 2849, BB 2799, BE 2699, D 2399, EE 2249, JJ 1999</CategoryFares>
+		<Amenities>PC</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>40996</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Island</Ship>
+		<GroupNum>TPN Voy 2210</GroupNum>
+		<Product>M#8250</Product>
+		<CategoryFares>AB 2299, BA 2069, BD 1949, EE 1699, JJ 1449</CategoryFares>
+		<Amenities>PC</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>41000</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Caribbean</Ship>
+		<GroupNum>TN4 Voy B215</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 849, F 949, BD 1299</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>41006</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Grand</Ship>
+		<GroupNum>TPK Voy A208</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 1499, F 1799, BC 2249</CategoryFares>
+		<Amenities>$25 SBC per cabin</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>41006</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Island</Ship>
+		<GroupNum>TPS Voy 2211</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>JJ 1449, F 1649, BE 1949</CategoryFares>
+		<Amenities>PC</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>41009</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Coral</Ship>
+		<GroupNum>TPS Voy 6209</GroupNum>
+		<Product>M#8250</Product>
+		<CategoryFares>AB 3299, BA 2849, BD 2699, EE 2249, JJ 1999</CategoryFares>
+		<Amenities>PC</Amenities>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Southern Caribbean</Destination>
+		<Date>41015</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Emerald</Ship>
+		<GroupNum>TPM Voy E212</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 1099, F 1299, BD 1749</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40926</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Golden</Ship>
+		<GroupNum>TPG Voy 5203</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 1695, EE 2245, BD 2595</CategoryFares>
+		<Amenities>HI</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40936</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sapphire</Ship>
+		<GroupNum>TP3 Voy H203</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 749, F 899, BD 1099</CategoryFares>
+		<Amenities>Mex</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40943</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sapphire</Ship>
+		<GroupNum>TPP Voy H204</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 1695, EE 2245, BD 2595</CategoryFares>
+		<Amenities>HI</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40954</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Golden</Ship>
+		<GroupNum>TPF Voy 5205</GroupNum>
+		<Product>G# </Product>
+		<CategoryFares>J 1695, EE 2245, BD 2595</CategoryFares>
+		<Amenities>HI</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40964</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sapphire</Ship>
+		<GroupNum>TPT Voy H206</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 749, F 899, BD 1099</CategoryFares>
+		<Amenities>Mex</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40992</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Sapphire</Ship>
+		<GroupNum>TPR Voy H209</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 749, F 899, BD 1099</CategoryFares>
+		<Amenities>Mex</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>40982</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Golden</Ship>
+		<GroupNum>TPH Voy 5207</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 1695, EE 2245, BD 2595</CategoryFares>
+		<Amenities>HI</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>US/HI/CA/MEX</Destination>
+		<Date>41024</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Golden</Ship>
+		<GroupNum>TPD Voy 5210</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 1695, EE 2245, BD 2595</CategoryFares>
+		<Amenities>HI</Amenities>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Western Caribbean</Destination>
+		<Date>40950</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Crown</Ship>
+		<GroupNum>TPF Voy 3207</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 749, F 849, BD 1199</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+	<groupcruise>
+		<Destination>Western Caribbean</Destination>
+		<Date>41013</Date>
+		<Vendor>Princess</Vendor>
+		<Ship>Crown</Ship>
+		<GroupNum>TPG Voy 3216</GroupNum>
+		<Product>G#</Product>
+		<CategoryFares>J 699, F 799, BD 1099</CategoryFares>
+		<Availability>Call or book online</Availability>
+	</groupcruise>
+</groupcruises>
