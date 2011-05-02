@@ -1,6 +1,7 @@
 require 'data_mapper'
 require 'optparse'
 require "group_cruz/models"
+require "builder"
 require 'spreadsheet'
 
 module GroupCruz
@@ -23,7 +24,8 @@ module GroupCruz
       workbook.worksheets.each do |sheet|
         puts "Processing #{sheet.name}"
         sheet.each do |row|
-          unless row[0] == "Destination" or row[0].nil? or row[0]== ""
+          unless (row[0] == "Destination" or row[0].nil? or row[0]== "") and(
+              row[2] == "Vendor" or row[2].nil? or row[2]== "" )
             cruise = GroupCruz::Cruise.new
             cruise.destination = row[0]
             puts "Cruise Destination #{cruise.destination}"
@@ -43,7 +45,19 @@ module GroupCruz
     end
     # generate xml from database
     def export_xml(output_filename)
-
+      puts "Generating XML: #{output_filename}"
+      target = open output_filename, "w"
+      xml = Builder::XmlMarkup.new(:target=> target , :indent => 2)
+      xml.instruct!
+      xml.groupcruises do
+        GroupCruz::Cruise.all.each do |cruise|
+          xml.groupcruise do
+            cruise.attributes.each do |key, value|
+              xml.method_missing(key.to_sym, value) unless key == :id or value.nil?
+            end
+          end
+        end
+      end
     end
     # console processor
     def process_args(args)
