@@ -1,11 +1,11 @@
 require 'data_mapper'
 
 module GroupCruz
-  class Curise
+  class Cruise
     include DataMapper::Resource
     
     property :id, Serial
-    property :destinatin, String
+    property :destination, String
     property :date, Date
     property :vendor, String
     property :ship, String

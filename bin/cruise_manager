@@ -1,0 +1,9 @@
+#! /usr/bin/env ruby
+
+$LOAD_PATH.insert 0, File.absolute_path( File.join(__FILE__, "..","..", "lib"))
+
+require "group_cruz"
+
+cruz = GroupCruz::CruzManager.new
+cruz.process_args(ARGV)
+
