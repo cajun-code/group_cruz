@@ -20,8 +20,7 @@ module GroupCruz
     # process spreadsheet into cruz database
     def import_sheet(filename)
       puts "Importing #{filename}"
-      workbook = Spreadsheet.open filename
-      workbook.worksheets.each do |sheet|
+      Spreadsheet.open(filename).worksheets.each do |sheet|
         puts "Processing #{sheet.name}"
         sheet.each do |row|
           unless (row[0] == "Destination" or row[0].nil? or row[0]== "") and(
